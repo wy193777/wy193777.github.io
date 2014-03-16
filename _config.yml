@@ -82,7 +82,7 @@ JB :
   comments :
     provider : disqus
     disqus : http://shenghan.duapp.com/
-      short_name : GaoShenghan
+      short_name :http://shenghan.duapp.com/
     livefyre :
       site_id : 123
     intensedebate :
